@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background rectangle with transparent fill -->
+    <item android:drawable="@android:color/transparent" />
+    <!-- Border shape with rounded corners -->
+    <item
+        android:left="2dp"
+        android:right="2dp"
+        android:top="2dp"
+        android:bottom="2dp">
+        <shape android:shape="rectangle">
+            <corners android:radius="30dp" /> <!-- Adjust the radius to control the corner roundness -->
+            <stroke
+                android:width="5dp"
+                android:color="#BAB8B7"
+                />
+        </shape>
+    </item>
+</layer-list>
