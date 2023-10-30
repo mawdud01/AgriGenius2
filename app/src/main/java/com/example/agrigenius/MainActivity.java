@@ -129,8 +129,10 @@ public class MainActivity extends AppCompatActivity {
                         drawerLayout.closeDrawers();
                         break;
 
-                    case R.id.mRate:
-                        Toast.makeText(MainActivity.this, "Rate us", Toast.LENGTH_SHORT).show();
+                    case R.id.tutorial:
+                        Intent intent2 = new Intent(MainActivity.this,tutorial.class);
+                        startActivity(intent2);
+                       finish();
 
                         drawerLayout.closeDrawers();
                         break;
