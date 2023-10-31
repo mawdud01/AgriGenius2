@@ -13,8 +13,11 @@
         >
 
         <Button
+<<<<<<< HEAD
             android:layout_marginLeft="20dp"
             android:layout_marginBottom="15dp"
+=======
+>>>>>>> github/master
             android:padding="15dp"
             android:textSize="15dp"
             android:id="@+id/startButton"
@@ -22,11 +25,17 @@
             android:layout_height="wrap_content"
             android:text="Start Speaking"
             android:layout_gravity="center"
+<<<<<<< HEAD
             android:layout_marginTop="15dp"
             android:background="@drawable/white_rectangle"
             /> <Button
             android:layout_marginLeft="20dp"
             android:layout_marginBottom="15dp"
+=======
+            android:layout_marginTop="24dp"/>
+
+        <Button
+>>>>>>> github/master
             android:padding="15dp"
             android:textSize="15dp"
             android:id="@+id/stopButton"
@@ -34,12 +43,18 @@
             android:layout_height="wrap_content"
             android:text="Stop Speaking"
             android:layout_gravity="center"
+<<<<<<< HEAD
             android:layout_marginTop="15dp"
             android:background="@drawable/white_rectangle"
             android:visibility="gone"
             />
 
 
+=======
+            android:layout_marginTop="24dp"
+           android:layout_marginLeft="25dp"
+            android:visibility="gone"/>
+>>>>>>> github/master
 
     </LinearLayout>
 
@@ -48,7 +63,11 @@
         android:layout_margin="10dp"
         android:padding="5dp"
         android:layout_width="match_parent"
+<<<<<<< HEAD
         android:layout_height="wrap_content"
+=======
+        android:layout_height="match_parent"
+>>>>>>> github/master
        >
 
         <TextView
@@ -59,7 +78,11 @@
             android:textColor="@color/black"
             android:id="@+id/textToSpeak"
             android:layout_width="match_parent"
+<<<<<<< HEAD
             android:layout_height="wrap_content"
+=======
+            android:layout_height="match_parent"
+>>>>>>> github/master
             android:text="@string/tutorial"
             android:layout_gravity="center"
             android:layout_marginTop="10dp"/>

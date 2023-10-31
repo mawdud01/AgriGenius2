@@ -9,7 +9,7 @@
     <string name="galary">Gallery </string>
     <string name="camera">Take Picture</string>
 
-    <string name="Detectlist"><b>Which disease I can Detect</b></string>
+    <string name="Detectlist"><b><u>Which disease I can Detetct</u></b></string>
     <string name="Classifiedas">Disease Name: </string>
     <string name="othercondifence">Other Possible Confidence: </string>
 
@@ -206,44 +206,5 @@
 
     <string name="diseaste_items">Apple Scab\n\nApple Black Rot\n\nApple Cedar Apple Rust\n\nApple Healthy\n\nBlueberry Healthy\n\nCherry Including Sour Powdery Mildew\n\nCherry Including Sour Healthy\n\nCorn Maize Cercospora Leaf Spot Gray Leaf Spot\n\nCorn Maize Common Rust\n\nCorn Maize Northern Leaf Blight\n\nCorn Maize Healthy\n\nGrape Black Rot\n\nGrape Esca Black Measles\n\nGrape Leaf Blight Isariopsis Leaf Spot\n\nGrape Healthy\n\nOrange Haunglongbing Citrus Greening\n\nPeach Bacterial Spot\n\nPeach Healthy\n\nPepper Bell Bacterial Spot\n\nPepper Bell Healthy\n\nPotato Early Blight\n\nPotato Late Blight\n\nPotato Healthy\n\nRaspberry Healthy\n\nSoybean Healthy\n\nSquash Powdery Mildew\n\nStrawberry Leaf Scorch\n\nStrawberry Healthy\n\nTomato Bacterial Spot\n\nTomato Early Blight\n\nTomato Late Blight\n\nTomato Leaf Mold\n\nTomato Septoria Leaf Spot\n\nTomato Spider Mites Two-Spotted Spider Mite\n\nTomato Target Spot\n\nTomato Yellow Leaf Curl Virus\n\nTomato Mosaic Virus\n\nTomato Healthy</string>
 
-    <string name="tutorial">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <h2>Maximizing the Benefits of the AgriGenious Mobile App for Farmers</h2>\n\n\nIn the ever-evolving world of agriculture, technology is proving to be a valuable ally for farmers. The AgriGenious mobile app is a cutting-edge tool designed to empower farmers by providing a wide range of features, from plant disease detection to crop recommendations, an e-commerce marketplace, and more. In this comprehensive guide, we will delve into how you can harness the full potential of the AgriGenious app to revolutionize your farming practices.\n
-        1. Plant Disease Detection\n
-           - Click on the "Disease Detection" feature.\n
-           - Capture a photo of a plant showing potential disease symptoms, or select an image from your devices gallery.
-           - The AgriGenious apps AI module will thoroughly analyze the image and provide a precise disease diagnosis.\n
-           - You will also receive expert recommendations on how to manage and treat the identified disease effectively.\n
-        2. Crop Recommendations\n
-           - Navigate to the "Crop Recommendations" section.\n
-           - Here, you can input essential details such as your geographical location, soil type, and your specific farming preferences.\n
-           - Based on your input, the app will generate a list of crop recommendations tailored to your unique circumstances.\n
-        3. Fertilizer Suggestions\n
-           - Select the "Fertilizer Suggestions" option.\n
-           - Provide detailed information about your crops, including their current growth stage.\n
-           - The app will recommend the most suitable fertilizers that align with your crops needs, enhancing your overall crop yield.\n
-        4. E-commerce Marketplace\n
-           - Explore the "E-commerce Marketplace" to discover a vast array of farming products and supplies.\n
-           - Utilize the search and filter functionalities to easily locate specific items like seeds, fertilizers, and farming equipment.\n
-           - As you come across products you wish to purchase, add them to your cart for streamlined and efficient shopping.\n
-        5. Post Ads for Crops Selling\n
-           - Are you looking to sell your crops? The "Post Ads" feature allows you to do just that.\n
-           - Fill in the necessary details for your crop listing, including crop type, quantity, quality, and pricing.\n
-           - Enhance your listing by uploading images of your crops, which can significantly boost your chances of attracting potential buyers.\n
 
-        6. Profit Calculator\n
-           - Open the "Profit Calculator" to perform an in-depth financial analysis of your farming endeavors.\n
-           - Input your costs, crop details, and your expected selling price.\n
-           - The app will swiftly calculate your estimated profit, helping you make informed financial decisions.\n
-
-        Tips for Maximizing Your Experience\n
-        - Regularly update the app to access new features and enjoy an improved user experience.\n
-        - Use the "Communicate with Seller" option within the marketplace if you have inquiries or require additional information about a product.\n
-        - Leave reviews and ratings for products and sellers - your input can greatly benefit the AgriGenious community.\n
-        - Keep your user profile up to date with accurate information for a more personalized experience.\n
-
-        Troubleshooting\n
-        - If you encounter any issues with the app, visit the "Help" or "Support" section for guidance and assistance.\n
-        - Ensure a stable and reliable internet connection to make the most of your user experience.
-</string>
 </resources>
-
-
